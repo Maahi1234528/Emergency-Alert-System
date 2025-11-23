@@ -46,4 +46,3 @@ python emergency_system.py
 
 -> View history to see the last three activities.
 
-Run:
